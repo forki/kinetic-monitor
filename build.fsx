@@ -352,7 +352,7 @@ Target "All" DoNothing
 #else
   =?> ("SourceLink", Pdbstr.tryFind().IsSome )
 #endif
-  ==> "NuGet"
+//  ==> "NuGet"
   ==> "BuildPackage"
 
 "CleanDocs"
@@ -370,7 +370,7 @@ Target "All" DoNothing
   ==> "Release"
 
 "BuildPackage"
-  ==> "PublishNuget"
+//  ==> "PublishNuget"
   ==> "Release"
 
 RunTargetOrDefault "All"
