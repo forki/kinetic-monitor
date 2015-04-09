@@ -55,7 +55,7 @@ let gitOwner = "icorderi"
 let gitHome = "https://github.com/" + gitOwner
 
 // The name of the project on GitHub
-let gitName = "KineticMonitor"
+let gitName = "kinetic-monitor"
 
 // The url for the raw files hosted
 let gitRaw = environVarOrDefault "gitRaw" "https://raw.github.com/icorderi"

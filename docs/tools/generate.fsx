@@ -4,9 +4,9 @@
 // --------------------------------------------------------------------------------------
 
 // Web site location for the generated documentation
-let website = "/KineticMonitor"
+let website = "http://icorderi.github.io/kinetic-monitor/"
 
-let githubLink = "http://github.com/icorderi/KineticMonitor"
+let githubLink = "http://github.com/icorderi/kinetic-monitor"
 
 // Specify more information about your project
 let info =
