@@ -1,0 +1,23 @@
+type project
+owners
+    Ignacio Corderi
+authors 
+    Ignacio Corderi
+projectUrl
+    http://github.com/icorderi/KineticMonitor
+iconUrl
+    https://raw.githubusercontent.com/icorderi/KineticMonitor/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/icorderi/KineticMonitor/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    monitor kinetic protocol storage
+summary
+    A monitor service for Kinetic devices
+description
+    A monitor service for Kinetic devices
+
+
