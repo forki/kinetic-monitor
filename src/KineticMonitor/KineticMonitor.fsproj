@@ -12,6 +12,7 @@
     <TargetFSharpCoreVersion>4.3.0.0</TargetFSharpCoreVersion>
     <Name>KineticMonitor</Name>
     <TargetFrameworkProfile />
+    <ReleaseVersion>0.2.0</ReleaseVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
